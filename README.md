@@ -1,13 +1,11 @@
 MahankoshUnicode
 ================
 
-Mahakankosh in Unicode
-
 ##[MAHAN KOSH](http://en.wikipedia.org/wiki/Mahan_Kosh)
 written by
 ##[BHAI KAHAN SINGH NABHA](http://en.wikipedia.org/wiki/Bhai_Kahn_Singh_Nabha)
 
-#Conversion of Mahankosh into Unicode Format.
+#Conversion of Mahankosh into Unicode.
 
 ##Why this conversion?
  - Current version of pdf is non-readable by computer.

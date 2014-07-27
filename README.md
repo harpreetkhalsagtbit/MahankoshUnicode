@@ -3,8 +3,8 @@ MahankoshUnicode
 
 Mahakankosh in Unicode
 
-##MAHAN KOSH
-#written by
+##[MAHAN KOSH](http://en.wikipedia.org/wiki/Mahan_Kosh)
+written by
 ##BHAI KAHAN SINGH NABHA
 
 Conversion of Mahankosh into Unicode Format.
